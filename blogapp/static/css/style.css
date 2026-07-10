@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 30px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+h2{
+    color: rgb(101, 46, 46);
+}
+
+div {
+    background-color: #fff;
+    padding: 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 10px;
+}
+
+div p{
+    color: #263c47
+}
